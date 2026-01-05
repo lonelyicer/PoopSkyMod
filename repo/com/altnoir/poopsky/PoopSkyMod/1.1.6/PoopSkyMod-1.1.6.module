@@ -27,11 +27,11 @@
         {
           "name": "PoopSkyMod-1.1.6.jar",
           "url": "PoopSkyMod-1.1.6.jar",
-          "size": 7217744,
-          "sha512": "3521f857bffae931b6ffaa1fa333be9f21d5797cf2bb3bb125f704c2ef7a6733f944305a500bccd8cbe530bccfa18d4b05442c8ebe0c0f57158e27017501c76f",
-          "sha256": "0dd7f28e5760ec5378a1daac6c996cff3c710cc19b8adf536ea2cc0a55933975",
-          "sha1": "1335a9b6302f496a7244c598bf6d6a38d94cca9f",
-          "md5": "ad3333b7b6aabb001c3744af894a76b4"
+          "size": 7417785,
+          "sha512": "708842543c38d23a36af4b31020a95f0413857b27abac62eab22710af90a260a3df603772506e4354de10ef886a105f2bcf250cc5eaec753ad9ea82fcb08bbdd",
+          "sha256": "9981e18a265e82db29ca04e6acfa1ae9b8e7455feb3493f97ee4e54f25d050f4",
+          "sha1": "84a975ae9e500765dd2f72db8c0a2f4483d9acac",
+          "md5": "f650bb5af45566a1a0a7d384d9c65ca6"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "PoopSkyMod-1.1.6.jar",
           "url": "PoopSkyMod-1.1.6.jar",
-          "size": 7217744,
-          "sha512": "3521f857bffae931b6ffaa1fa333be9f21d5797cf2bb3bb125f704c2ef7a6733f944305a500bccd8cbe530bccfa18d4b05442c8ebe0c0f57158e27017501c76f",
-          "sha256": "0dd7f28e5760ec5378a1daac6c996cff3c710cc19b8adf536ea2cc0a55933975",
-          "sha1": "1335a9b6302f496a7244c598bf6d6a38d94cca9f",
-          "md5": "ad3333b7b6aabb001c3744af894a76b4"
+          "size": 7417785,
+          "sha512": "708842543c38d23a36af4b31020a95f0413857b27abac62eab22710af90a260a3df603772506e4354de10ef886a105f2bcf250cc5eaec753ad9ea82fcb08bbdd",
+          "sha256": "9981e18a265e82db29ca04e6acfa1ae9b8e7455feb3493f97ee4e54f25d050f4",
+          "sha1": "84a975ae9e500765dd2f72db8c0a2f4483d9acac",
+          "md5": "f650bb5af45566a1a0a7d384d9c65ca6"
         }
       ]
     }
