@@ -3,7 +3,7 @@
   "component": {
     "group": "com.altnoir.poopsky",
     "module": "PoopSkyMod",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "PoopSkyMod-1.1.6.jar",
-          "url": "PoopSkyMod-1.1.6.jar",
+          "name": "PoopSkyMod-1.1.7.jar",
+          "url": "PoopSkyMod-1.1.7.jar",
           "size": 7417785,
-          "sha512": "5464c4c15885e678f6f7317b3c07db8368bf626f40a55b85e330f96f35a293a13d4c136d55c20f7d722c7f7c8a2f48db6f8dc83fd16505a96b4484e18c1b12d4",
-          "sha256": "b1b63c6d98f305462e3e1441e2316d6e369e13a7355e8798c97c17430a947a02",
-          "sha1": "48627ee26f54922700e96a33ed48f5fb9620e4a5",
-          "md5": "5494abb8850d19d2abbcc3d95cd0b3bf"
+          "sha512": "084a2efdb813dd87b97a482e32c5241572ea6c4702f3c56474171f99464d665639a96e75c35a919de4fdb3adfdaad3b85dbec3acf520d405fd881a47bce283f6",
+          "sha256": "27ea2bd69576fb152e91fa2d45fc44eb71da6f47b40e5e3f0d8dc260a7773a90",
+          "sha1": "fb2876544198d434a47ee3d2a45f05d87620a362",
+          "md5": "864b002fba524b4ebb8ae499660df89a"
         }
       ]
     },
@@ -46,13 +46,13 @@
       },
       "files": [
         {
-          "name": "PoopSkyMod-1.1.6.jar",
-          "url": "PoopSkyMod-1.1.6.jar",
+          "name": "PoopSkyMod-1.1.7.jar",
+          "url": "PoopSkyMod-1.1.7.jar",
           "size": 7417785,
-          "sha512": "5464c4c15885e678f6f7317b3c07db8368bf626f40a55b85e330f96f35a293a13d4c136d55c20f7d722c7f7c8a2f48db6f8dc83fd16505a96b4484e18c1b12d4",
-          "sha256": "b1b63c6d98f305462e3e1441e2316d6e369e13a7355e8798c97c17430a947a02",
-          "sha1": "48627ee26f54922700e96a33ed48f5fb9620e4a5",
-          "md5": "5494abb8850d19d2abbcc3d95cd0b3bf"
+          "sha512": "084a2efdb813dd87b97a482e32c5241572ea6c4702f3c56474171f99464d665639a96e75c35a919de4fdb3adfdaad3b85dbec3acf520d405fd881a47bce283f6",
+          "sha256": "27ea2bd69576fb152e91fa2d45fc44eb71da6f47b40e5e3f0d8dc260a7773a90",
+          "sha1": "fb2876544198d434a47ee3d2a45f05d87620a362",
+          "md5": "864b002fba524b4ebb8ae499660df89a"
         }
       ]
     }
